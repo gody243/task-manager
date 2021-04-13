@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+
+.nav{
+    color:white;
+    background-color:black;
+    
+}
+.container-fluid{
+    margin:80px;
+    padding-left:100px;
+    font-size: 30px;
+    
+}
+
+.container{
+    margin-top: 40px;
+}
+.form-check{
+    font-size:25px;
+    margin-top:80px;
+    padding-left:100px;
+}
+.row{
+    border:1px solid black;
+    height:80px;
+}
+.grid{
+    display: flex;
+    justify-content: space-around;
+ 
+}
+.scroller{
+    width: 300px;
+    height: 200px;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+}
